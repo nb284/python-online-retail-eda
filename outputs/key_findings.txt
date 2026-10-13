@@ -1,0 +1,14 @@
+ONLINE RETAIL EDA — KEY FINDINGS
+
+Cleaned rows: 524,878
+Total revenue: £10,642,110.80
+Total units sold: 5,572,420
+Unique invoices: 19,960
+Customers with ID: 4,338
+Unique products: 3,922
+Countries: 38
+
+Highest-revenue month: 2011-11 (£1,503,866.78)
+Lowest-revenue month: 2011-02 (£522,545.56)
+Top country: United Kingdom (£9,001,744.09)
+Top product by revenue: DOTCOM POSTAGE (£206,248.77)

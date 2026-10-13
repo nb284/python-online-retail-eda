@@ -1,0 +1,7 @@
+Stage,Rows
+Raw data,541909
+After removing exact duplicates,536641
+After removing invalid required fields,536641
+Cancelled invoices excluded,9251
+Non-cancelled invalid quantity/price rows excluded,2512
+Final regular-sales dataset,524878
